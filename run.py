@@ -1,4 +1,3 @@
-
 if __name__ =="__main__":
     welcome_page ='\n Welcome to the Bootcamper\n1. Bootcamper\n.2 LFA \n.3 LF'
     run_app = True
