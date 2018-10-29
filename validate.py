@@ -16,7 +16,8 @@ def validate_password(password):
         return False
     elif " " in password:
         return False
-    elif not re.search(r"^(\d*(?=.*[a-zA-Z])[a-zA-Z\d]{5,7}$", password):
+    elif not re.search(r"^(?=.*[a-zA-Z])(?=.*\d)[a-zA-Z\d]{7}$", password):
         return False
     else:
         return True
+        
