@@ -1,5 +1,8 @@
 # Ratings
 
+[![Build Status](https://travis-ci.org/Dianawats/Ratings.svg?branch=develop)](https://travis-ci.org/Dianawats/Ratings)
+
+
 Rating is a command line application that is used to give rating on the EPIC values alignment of Bootcamp candidates during Bootcamp.
 
 ## Requirements
