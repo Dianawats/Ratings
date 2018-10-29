@@ -29,9 +29,13 @@ To write tests, use the nosetests and run the following command:
 ## Contributors
 
 Diana Nakiwala
+
 Adralia Nelson
+
 Douglas Kato
+
 Afani Martin
+
 Paul Balitema
 
 
