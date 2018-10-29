@@ -1,6 +1,7 @@
 # Ratings
 
 [![Build Status](https://travis-ci.org/Dianawats/Ratings.svg?branch=develop)](https://travis-ci.org/Dianawats/Ratings)
+[![Coverage Status](https://coveralls.io/repos/github/Dianawats/Ratings/badge.svg?branch=develop)](https://coveralls.io/github/Dianawats/Ratings?branch=develop)
 
 
 Rating is a command line application that is used to give rating on the EPIC values alignment of Bootcamp candidates during Bootcamp.
